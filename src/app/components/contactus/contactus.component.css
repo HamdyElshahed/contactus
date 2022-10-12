@@ -1,0 +1,47 @@
+.contact {
+  height: 140px;
+  background-color: #12123c;
+  padding-top: 30px;
+}
+
+.contact .container p {
+  /* line-height: 140px; */
+  font-size: 12px;
+  color: #8a8aa5;
+  font-weight: 400;
+  font-family: "Tajawal";
+}
+
+.contact .container h3 {
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Tajawal";
+}
+
+.box {
+  width: 1354px;
+  height: 664px;
+  border-radius: 12px;
+  background-color: #ffffff;
+}
+
+input,
+textarea {
+  width: 505px;
+  height: 60px;
+  border-radius: 16px;
+  background-color: #ffffff;
+  border: 1px solid #dadada;
+}
+
+button {
+  width: 505px;
+  height: 60px;
+  border-radius: 16px;
+  background-color: #12123c;
+}
+
+iframe {
+  border-radius: 16px;
+}

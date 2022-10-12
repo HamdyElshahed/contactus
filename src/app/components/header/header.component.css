@@ -1,0 +1,20 @@
+.header {
+  /* /* width: 1440px; */
+  height: 85px;
+  background-color: #1E1E45 !important;
+}
+.header , .navbar-brand a , button , ul li a {
+  font-size: 12px;
+  color: #ffffff !important;
+  font-weight: 400;
+}
+
+button {
+  width: 112px;
+  height: 44px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #f36e32;
+  font-family: "Tajawal";
+}
